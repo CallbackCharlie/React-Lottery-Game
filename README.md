@@ -1,2 +1,2 @@
-# React-Lottery-Game
-SImple lottery game built in React.JS
+# PersonalSite
+Lottery game created in React.JS
